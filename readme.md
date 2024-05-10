@@ -48,7 +48,7 @@ So I decided to start a project and self-study myself. In the short-term, my goa
   - [Introduction to Computer Science](course-pages/intro-cs/README.md)
 - Core CS
   - Core programming
-    - [Systematic Program Design](course-pages/systematic-program-design/README.md)
+    - [Systematic Program Design](course-pages/core-cs/systematic-program-design/README.md)
   - Core math
   - CS Tools
   - Core systems
