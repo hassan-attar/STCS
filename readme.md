@@ -15,8 +15,6 @@
 - [Curriculum](#curriculum)
 - [Acknowledgments](#acknowledgments)
 
-# My Progress as of Today
-
 # Motivation
 
 ### Bit of Background
@@ -46,10 +44,11 @@ So I decided to start a project and self-study myself. In the short-term, my goa
 # Curriculum
 
 - Intro CS
-  - [Introduction to programming](coursepages/intro-programming/README.md) ✅✅✅
-  - [Introduction to Computer Science](coursepages/intro-cs/README.md) ✅✅✅
+  - [Introduction to programming](course-pages/intro-programming/README.md)
+  - [Introduction to Computer Science](course-pages/intro-cs/README.md)
 - Core CS
   - Core programming
+    - [Systematic Program Design](course-pages/systematic-program-design/README.md)
   - Core math
   - CS Tools
   - Core systems
