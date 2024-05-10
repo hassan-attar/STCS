@@ -17,27 +17,6 @@
 
 # My Progress as of Today
 
-- Prerequisites
-- Intro CS
-  - [Introduction to programming](coursepages/intro-programming/README.md) ✅✅✅
-  - [Introduction to Computer Science](coursepages/intro-cs/README.md) ✅✅✅
-- Core CS
-  - Core programming
-  - Core math
-  - CS Tools
-  - Core systems
-  - Core theory
-  - Core security
-  - Core applications
-  - Core ethics
-- Advanced CS
-  - Advanced programming
-  - Advanced systems
-  - Advanced theory
-  - Advanced information security
-  - Advanced math
-- Final project
-
 # Motivation
 
 ### Bit of Background
@@ -62,6 +41,26 @@ I felt the need for the knowledge that an undergrad has access to and studies. S
 
 Moreover, as I attended more events and met other developers and peers in the industry, I came to believe that learning in a field like CS never ends and that is a good thing! There will be new trends, new technologies and in turn, business ideas and demands that need to be met with those technologies. To my knowledge, CS is finding its place in many different disciplines and fields; We have tech stacks that are tailored to a specific industry. It is changing and advancing every minute!
 
-So I decided to start a project and self-study myself. In the short-term, my goal is to learn the equivalent of bachelor of CS based on <a href="https://github.com/ossu/computer-science" alt="Link to Open Source Society University Computer Science Curriculum" target="_">OSSU curriculum</a>. In the long-term, I will be documenting my own learning and development effort here. I am hoping that others might find it inspiring and it becomes a guide for them who want to do something similar.
+So I decided to start a project and self-study myself. In the short-term, my goal is to learn the equivalent of bachelor of CS based on <a href="https://github.com/ossu/computer-science" alt="Link to Open Source Society University Computer Science Curriculum" target="_">OSSU curriculum</a> (But I won't strictly follow that). In the long-term, I will be documenting my own learning and development effort here. I am hoping that others might find it inspiring and helpful. hopefully, This repo can become a guide for people who want to do something similar.
 
-# Summary
+# Curriculum
+
+- Intro CS
+  - [Introduction to programming](coursepages/intro-programming/README.md) ✅✅✅
+  - [Introduction to Computer Science](coursepages/intro-cs/README.md) ✅✅✅
+- Core CS
+  - Core programming
+  - Core math
+  - CS Tools
+  - Core systems
+  - Core theory
+  - Core security
+  - Core applications
+  - Core ethics
+- Advanced CS
+  - Advanced programming
+  - Advanced systems
+  - Advanced theory
+  - Advanced information security
+  - Advanced math
+- Final project
