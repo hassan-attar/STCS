@@ -70,22 +70,48 @@ So I decided to start a project and self-study myself. In the short-term, my goa
     <tr>
       <th>Category</th>
       <th>Subcategory</th>
+      <th>Course</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Intro CS</td>
-      <td>Introduction to programming</td>
+      <td rowspan="6">☐ Intro CS </td>
+      <td rowspan="3">☐ Introduction to programming</td>
     </tr>
     <tr>
-      <td>Introduction to Computer Science</td>
+      <td>
+        ☐ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">CS50 - Harvard
+        </a>
+      </td>
     </tr>
     <tr>
-      <td rowspan="14">Core CS</td>
-      <td rowspan="7">Core programming</td>
+      <td>
+        ☐ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">Python for Everybody - UMich
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="/course-pages/core-cs/systematic-program-design/README.md">Systematic Program Design</a>
+      <td rowspan="3">☐ Introduction to Computer Science</td>
+    </tr>
+    <tr>
+      <td>
+        ☐ <a href="/course-pages/intro-cs/README.md" style="text-decoration: none;">6.00.1x - MIT
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ☐ <a href="/course-pages/intro-cs/README.md" style="text-decoration: none;">6.00.2x - MIT
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="14">☐ Core CS</td>
+      <td rowspan="7">☐ Core programming</td>
+    </tr>
+    <tr>
+      <td>
+        ☐ <a href="/course-pages/core-cs/systematic-program-design/README.md" style="text-decoration: none;">Systematic Program Design</a>
       </td>
     </tr>
     <tr>
