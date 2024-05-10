@@ -29,8 +29,6 @@
 | Data Visualization and Plotting  | ✅     |
 | **Entire Course**                | ✅     |
 
----
-
 **OVER and DONE on May 5, 2024**
 
 ---
