@@ -48,7 +48,8 @@ So I decided to start a project and self-study myself. In the short-term, my goa
   - [Introduction to Computer Science](course-pages/intro-cs/README.md)
 - Core CS
   - Core programming
-    - [Systematic Program Design](course-pages/core-cs/systematic-program-design/README.md)
+    - [Systematic Program Design 1](course-pages/core-cs/systematic-program-design/README.md)
+    - [Systematic Program Design 2](course-pages/core-cs/systematic-program-design/README.md)
   - Core math
   - CS Tools
   - Core systems
@@ -63,3 +64,85 @@ So I decided to start a project and self-study myself. In the short-term, my goa
   - Advanced information security
   - Advanced math
 - Final project
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Subcategory</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Intro CS</td>
+      <td>Introduction to programming</td>
+    </tr>
+    <tr>
+      <td>Introduction to Computer Science</td>
+    </tr>
+    <tr>
+      <td rowspan="14">Core CS</td>
+      <td rowspan="7">Core programming</td>
+    </tr>
+    <tr>
+      <td><a href="/course-pages/core-cs/systematic-program-design/README.md">Systematic Program Design</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Course 3</td>
+    </tr>
+    <tr>
+      <td>Course 4</td>
+    </tr>
+    <tr>
+      <td>Course 5</td>
+    </tr>
+    <tr>
+      <td>Course 6</td>
+    </tr>
+    <tr>
+      <td>Course 7</td>
+    </tr>
+    <tr>
+      <td>Core math</td>
+    </tr>
+    <tr>
+      <td>CS Tools</td>
+    </tr>
+    <tr>
+      <td>Core systems</td>
+    </tr>
+    <tr>
+      <td>Core theory</td>
+    </tr>
+    <tr>
+      <td>Core security</td>
+    </tr>
+    <tr>
+      <td>Core applications</td>
+    </tr>
+    <tr>
+      <td>Core ethics</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Advanced CS</td>
+      <td>Advanced programming</td>
+    </tr>
+    <tr>
+      <td>Advanced systems</td>
+    </tr>
+    <tr>
+      <td>Advanced theory</td>
+    </tr>
+    <tr>
+      <td>Advanced information security</td>
+    </tr>
+    <tr>
+      <td>Advanced math</td>
+    </tr>
+    <tr>
+      <td>Final project</td>
+    </tr>
+  </tbody>
+</table>
+`
