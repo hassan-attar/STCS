@@ -8,19 +8,19 @@
 
 | Topic                       | Status |
 | --------------------------- | ------ |
-| Functions, Variables        | ☐      |
-| Conditionals                | ☐      |
-| Loops                       | ☐      |
-| Exceptions                  | ☐      |
-| Libraries                   | ☐      |
-| Unit Tests                  | ☐      |
-| File I/O                    | ☐      |
-| Regular Expressions         | ☐      |
-| Object-Oriented Programming | ☐      |
-| Et Cetera                   | ☐      |
-| **Entire Course**           | ☐      |
+| Functions, Variables        | ✅     |
+| Conditionals                | ✅     |
+| Loops                       | ✅     |
+| Exceptions                  | ✅     |
+| Libraries                   | ✅     |
+| Unit Tests                  | ✅     |
+| File I/O                    | ✅     |
+| Regular Expressions         | ✅     |
+| Object-Oriented Programming | ✅     |
+| Et Cetera                   | ✅     |
+| **Entire Course**           | ✅     |
 
-**OVER and DONE on (Add the date when you finish)**
+**OVER and DONE on (April 26, 2024)**
 
 ---
 
@@ -43,16 +43,18 @@
 | Functions                              | ☐      |
 | Loops and Iterations                   | ☐      |
 | Strings                                | ☐      |
-| Files                                  | ☐      |
+| Files                                  | ✅     |
 | Lists                                  | ☐      |
 | Dictionaries                           | ☐      |
 | Tuples                                 | ☐      |
-| Regular Expressions                    | ☐      |
-| Network Programming (Optional)         | ☐      |
-| Using Web Services (Optional)          | ☐      |
-| Object-Oriented Programming (Optional) | ☐      |
-| Databases (Optional)                   | ☐      |
-| Data Visualization (Optional)          | ☐      |
-| **Entire Course**                      | ☐      |
+| Regular Expressions                    | ✅     |
+| Network Programming (Optional)         | ✅     |
+| Using Web Services (Optional)          | ✅     |
+| Object-Oriented Programming (Optional) | ✅     |
+| Databases (Optional)                   | ✅     |
+| Data Visualization (Optional)          | ✅     |
+| **Entire Course**                      | ✅     |
 
-**OVER and DONE on (Add the date when you finish)**
+> Rest of the materials were already covered in CS50
+
+**OVER and DONE on (April 29, 2024)**

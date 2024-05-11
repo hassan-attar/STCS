@@ -43,28 +43,6 @@ So I decided to start a project and self-study myself. In the short-term, my goa
 
 # Curriculum
 
-- Intro CS
-  - [Introduction to programming](course-pages/intro-programming/README.md)
-  - [Introduction to Computer Science](course-pages/intro-cs/README.md)
-- Core CS
-  - Core programming
-    - [Systematic Program Design 1](course-pages/core-cs/systematic-program-design/README.md)
-    - [Systematic Program Design 2](course-pages/core-cs/systematic-program-design/README.md)
-  - Core math
-  - CS Tools
-  - Core systems
-  - Core theory
-  - Core security
-  - Core applications
-  - Core ethics
-- Advanced CS
-  - Advanced programming
-  - Advanced systems
-  - Advanced theory
-  - Advanced information security
-  - Advanced math
-- Final project
-
 <table>
   <thead>
     <tr>
@@ -75,27 +53,27 @@ So I decided to start a project and self-study myself. In the short-term, my goa
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6">☐ Intro CS </td>
-      <td rowspan="3">☐ Introduction to programming</td>
+      <td rowspan="6">✅ Intro CS </td>
+      <td rowspan="3">✅ Introduction to programming</td>
     </tr>
     <tr>
       <td>
-        ☐ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">CS50 - Harvard
+        ✅ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">CS50 - Harvard
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        ☐ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">Python for Everybody - UMich
+        ✅ <a href="/course-pages/intro-programming/README.md" style="text-decoration: none;">Python for Everybody - UMich
         </a>
       </td>
     </tr>
     <tr>
-      <td rowspan="3">☐ Introduction to Computer Science</td>
+      <td rowspan="3">✅ Introduction to Computer Science</td>
     </tr>
     <tr>
       <td>
-        ☐ <a href="/course-pages/intro-cs/README.md" style="text-decoration: none;">6.00.1x - MIT
+        ✅ <a href="/course-pages/intro-cs/README.md" style="text-decoration: none;">6.00.1x - MIT
         </a>
       </td>
     </tr>

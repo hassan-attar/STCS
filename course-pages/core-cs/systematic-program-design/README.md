@@ -8,16 +8,16 @@
 
 | Topic                      | Status |
 | -------------------------- | ------ |
-| Beginning Student Language | ☐      |
-| How to Design Functions    | ☐      |
-| How to Design Data         | ☐      |
-| How to Design Worlds       | ☐      |
-| Compound Data              | ☐      |
-| Self-Reference             | ☐      |
-| Reference                  | ☐      |
-| Naturals                   | ☐      |
-| Helpers                    | ☐      |
-| Binary Search Trees        | ☐      |
+| Beginning Student Language | ✅     |
+| How to Design Functions    | ✅     |
+| How to Design Data         | ✅     |
+| How to Design Worlds       | ✅     |
+| Compound Data              | ✅     |
+| Self-Reference             | ✅     |
+| Reference                  | ✅     |
+| Naturals                   | ✅     |
+| Helpers                    | ✅     |
+| Binary Search Trees        | ✅     |
 | Mutual Reference           | ☐      |
 | Two One-Of Types           | ☐      |
 | Local                      | ☐      |
