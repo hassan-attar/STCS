@@ -18,7 +18,7 @@
 | Naturals                   | ✅     |
 | Helpers                    | ✅     |
 | Binary Search Trees        | ✅     |
-| Mutual Reference           | ☐      |
+| Mutual Reference           | ✅     |
 | Two One-Of Types           | ☐      |
 | Local                      | ☐      |
 | Abstraction                | ☐      |
