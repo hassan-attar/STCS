@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<img src="./logo/logo-png.png" alt="Self-Taught Computer Science logo"/>
+<img src="./logo/logo-rectangle/logo-png.png" alt="Self-Taught Computer Science logo"/>
 <h3>Self-Taught Computer Science</h3>
 <p>
   My journey to a free self-taught education in Computer Science!
