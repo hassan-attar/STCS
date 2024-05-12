@@ -19,7 +19,7 @@
 | Helpers                    | ✅     |
 | Binary Search Trees        | ✅     |
 | Mutual Reference           | ✅     |
-| Two One-Of Types           | ☐      |
+| Two One-Of Types           | ✅     |
 | Local                      | ☐      |
 | Abstraction                | ☐      |
 | Generative Recursion       | ☐      |
