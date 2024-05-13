@@ -20,7 +20,7 @@
 | Binary Search Trees        | ✅     |
 | Mutual Reference           | ✅     |
 | Two One-Of Types           | ✅     |
-| Local                      | ☐      |
+| Local                      | ✅     |
 | Abstraction                | ☐      |
 | Generative Recursion       | ☐      |
 | Search                     | ☐      |
