@@ -10,10 +10,10 @@ To learn more about him: <https://online.dr-chuck.com/about.php>
 
 | Topic                      | Status |
 | -------------------------- | ------ |
-| Introduction               | ☐      |
-| Network Architecture       | ☐      |
-| Link Layer                 | ☐      |
-| Internetworking Layer (IP) | ☐      |
+| Introduction               | ✅     |
+| Network Architecture       | ✅     |
+| Link Layer                 | ✅     |
+| Internetworking Layer (IP) | ✅     |
 | The Domain Name System     | ☐      |
 | Transport Layer            | ☐      |
 | Application Layer          | ☐      |
