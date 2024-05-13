@@ -21,7 +21,7 @@
 | Mutual Reference           | ✅     |
 | Two One-Of Types           | ✅     |
 | Local                      | ✅     |
-| Abstraction                | ☐      |
+| Abstraction                | ✅     |
 | Generative Recursion       | ☐      |
 | Search                     | ☐      |
 | Accumulators               | ☐      |
