@@ -14,8 +14,8 @@ To learn more about him: <https://online.dr-chuck.com/about.php>
 | Network Architecture       | ✅     |
 | Link Layer                 | ✅     |
 | Internetworking Layer (IP) | ✅     |
-| The Domain Name System     | ☐      |
-| Transport Layer            | ☐      |
+| The Domain Name System     | ✅     |
+| Transport Layer            | ✅     |
 | Application Layer          | ☐      |
 | Secure Transport Layer     | ☐      |
 | The OSI Model              | ☐      |
