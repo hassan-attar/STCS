@@ -22,8 +22,8 @@
 | Two One-Of Types           | ✅     |
 | Local                      | ✅     |
 | Abstraction                | ✅     |
-| Generative Recursion       | ☐      |
-| Search                     | ☐      |
+| Generative Recursion       | ✅     |
+| Search                     | ✅     |
 | Accumulators               | ☐      |
 | Graphs                     | ☐      |
 | **Entire Course**          | ☐      |
