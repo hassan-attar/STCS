@@ -89,7 +89,7 @@ So I decided to start a project and self-study myself. In the short-term, my goa
     </tr>
     <tr>
       <td>
-        ☐ <a href="/course-pages/core-cs/systematic-program-design/README.md" style="text-decoration: none;">Systematic Program Design</a>
+        ✅ <a href="/course-pages/core-cs/systematic-program-design/README.md" style="text-decoration: none;">Systematic Program Design</a>
       </td>
     </tr>
     <tr>
