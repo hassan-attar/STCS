@@ -24,7 +24,7 @@
 | Abstraction                | ✅     |
 | Generative Recursion       | ✅     |
 | Search                     | ✅     |
-| Accumulators               | ☐      |
+| Accumulators               | ✅     |
 | Graphs                     | ☐      |
 | **Entire Course**          | ☐      |
 
